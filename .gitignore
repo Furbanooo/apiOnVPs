@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+venv/
+
+# Build outputs
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
